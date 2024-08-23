@@ -48,7 +48,7 @@
 
 点击输出IP去重，即可对输出的IP结果进行去重处理，也可以点击`开启自动去重`按钮，所有结果将自动去重
 
-![image-20240823191348136](../../../../../../AppData/Roaming/Typora/typora-user-images/image-20240823191348136.png)
+![image-20240823191348136](https://yunyinanquan.oss-cn-beijing.aliyuncs.com/202408240133087.png)
 
 **高亮IP功能**
 
